@@ -1,0 +1,80 @@
+{
+  "student": {
+    "name": "Faisal Hossain",
+    "student_id": "403084"
+  },
+  "analytic_question": "Is mean shots on target per 90 different between forwards and midfielders in the supplied FBref 2026 World Cup player dataset?",
+  "hypotheses": {
+    "null": "The two population means are equal (mu_FW = mu_MF).",
+    "alternative": "The two population means differ (mu_FW != mu_MF)."
+  },
+  "data_preparation": {
+    "raw_rows": 338,
+    "minimum_minutes": 270,
+    "eligible_forward_population": 42,
+    "eligible_midfielder_population": 118,
+    "sample_size_per_group": 40,
+    "random_seed": 42
+  },
+  "descriptive_statistics": {
+    "Forwards": {
+      "n": 40,
+      "mean": 1.16825,
+      "median": 1.205,
+      "mode": 0.0,
+      "variance": 0.529148141025641,
+      "standard_deviation": 0.7274256945046972,
+      "minimum": 0.0,
+      "q1": 0.7,
+      "q3": 1.6724999999999999,
+      "maximum": 2.98,
+      "iqr": 0.9724999999999999
+    },
+    "Midfielders": {
+      "n": 40,
+      "mean": 0.54325,
+      "median": 0.475,
+      "mode": 0.0,
+      "variance": 0.28642249999999997,
+      "standard_deviation": 0.5351845476095138,
+      "minimum": 0.0,
+      "q1": 0.11249999999999999,
+      "q3": 0.7275,
+      "maximum": 1.91,
+      "iqr": 0.615
+    }
+  },
+  "confidence_intervals_95_percent": {
+    "forward_mean": [
+      0.9356079765292113,
+      1.4008920234707887
+    ],
+    "midfielder_mean": [
+      0.37208967802243753,
+      0.7144103219775625
+    ],
+    "forward_minus_midfielder": [
+      0.3403278400072288,
+      0.9096721599927712
+    ]
+  },
+  "welch_two_sample_t_test": {
+    "mean_difference": 0.625,
+    "t_statistic": 4.3770269556523775,
+    "p_value": 4.0189355439789056e-05,
+    "alpha": 0.05,
+    "decision": "Reject H0"
+  },
+  "assumption_and_robustness_checks": {
+    "shapiro_forward_p": 0.5628128048440708,
+    "shapiro_midfielder_p": 0.0001217274715666302,
+    "levene_median_p": 0.02494455671025669,
+    "mann_whitney_u": 1214.0,
+    "mann_whitney_p": 6.605242551000139e-05
+  },
+  "effect_size": {
+    "cohens_d": 0.9787329812187673,
+    "hedges_g": 0.9692918270591007
+  },
+  "conclusion": "The sampled forwards had a statistically significantly higher mean shots-on-target rate than the sampled midfielders."
+}

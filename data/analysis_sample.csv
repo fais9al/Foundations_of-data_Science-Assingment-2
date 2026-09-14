@@ -1,0 +1,81 @@
+player,team,listed_position,minutes,shots_on_target_per90,primary_position,group
+Lautaro Martínez,Argentina,FW,310.0,1.16,FW,Forwards
+Folarin Balogun,United States,FW,312.0,1.44,FW,Forwards
+Cristiano Ronaldo,Portugal,FW,440.0,1.84,FW,Forwards
+Lee Kang-in,Korea Republic,FW,270.0,0.33,FW,Forwards
+Breel Embolo,Switzerland,FW,501.0,0.9,FW,Forwards
+Viktor Gyökeres,Sweden,FW,360.0,1.5,FW,Forwards
+Jordan Ayew,Ghana,FW,300.0,0.0,FW,Forwards
+Luis Suárez,Colombia,FW,331.0,0.0,FW,Forwards
+Matheus Cunha,Brazil,FW,290.0,1.55,FW,Forwards
+Chris Wood,New Zealand,FW,270.0,0.67,FW,Forwards
+Lionel Messi,Argentina,FW,740.0,2.19,FW,Forwards
+Ferran Torres,Spain,FW,288.0,1.25,FW,Forwards
+James Rodríguez,Colombia,"FW,MF",313.0,0.86,FW,Forwards
+Enner Valencia,Ecuador,FW,287.0,1.88,FW,Forwards
+Harry Kane,England,FW,652.0,1.66,FW,Forwards
+Mostafa Ziko,Egypt,"FW,MF",370.0,0.73,FW,Forwards
+Ismael Saibari,Morocco,FW,381.0,0.71,FW,Forwards
+Raúl Jiménez,Mexico,FW,317.0,1.99,FW,Forwards
+Rayan,Brazil,"FW,MF",288.0,0.62,FW,Forwards
+Alexander Isak,Sweden,FW,357.0,1.51,FW,Forwards
+Kylian Mbappé,France,FW,695.0,2.98,FW,Forwards
+Charles De Ketelaere,Belgium,"FW,MF",350.0,1.29,FW,Forwards
+Ermedin Demirović,Bosnia–Herz,FW,354.0,1.02,FW,Forwards
+Vinicius Júnior,Brazil,FW,440.0,2.25,FW,Forwards
+Alexander Sørloth,Norway,FW,337.0,0.0,FW,Forwards
+Mikel Oyarzabal,Spain,FW,601.0,1.8,FW,Forwards
+Julián Quiñones,Mexico,"FW,MF",410.0,1.32,FW,Forwards
+Antonio Nusa,Norway,FW,318.0,0.57,FW,Forwards
+Mohamed Salah,Egypt,"FW,MF",425.0,0.85,FW,Forwards
+Yoane Wissa,Congo DR,FW,360.0,0.75,FW,Forwards
+Ayase Ueda,Japan,FW,321.0,1.12,FW,Forwards
+Roberto Alvarado,Mexico,"FW,MF",428.0,0.0,FW,Forwards
+Kai Havertz,Germany,FW,353.0,1.78,FW,Forwards
+Omar Marmoush,Egypt,"FW,MF",326.0,0.28,FW,Forwards
+Erling Haaland,Norway,FW,465.0,2.52,FW,Forwards
+Julián Álvarez,Argentina,FW,602.0,0.75,FW,Forwards
+Jonathan David,Canada,FW,420.0,1.71,FW,Forwards
+Julio Enciso,Paraguay,FW,386.0,0.23,FW,Forwards
+Cody Gakpo,Netherlands,FW,368.0,1.47,FW,Forwards
+Gonzalo Plata,Ecuador,FW,360.0,1.25,FW,Forwards
+Kaishū Sano,Japan,MF,270.0,0.33,MF,Midfielders
+Patrick Berg,Norway,MF,445.0,0.0,MF,Midfielders
+Andrés Cubas,Paraguay,MF,480.0,0.0,MF,Midfielders
+Issa Laye,Qatar,"MF,DF",270.0,0.0,MF,Midfielders
+Emam Ashour,Egypt,MF,362.0,0.5,MF,Midfielders
+Youri Tielemans,Belgium,MF,474.0,0.57,MF,Midfielders
+Malik Tillman,United States,MF,356.0,1.01,MF,Midfielders
+Azzedine Ounahi,Morocco,MF,435.0,0.62,MF,Midfielders
+Pedri,Spain,MF,499.0,0.36,MF,Midfielders
+Martin Ødegaard,Norway,MF,470.0,0.57,MF,Midfielders
+Connor Metcalfe,Australia,MF,315.0,0.57,MF,Midfielders
+Vitinha,Portugal,MF,376.0,0.0,MF,Midfielders
+Bilal El Khannouss,Morocco,"MF,FW",461.0,0.78,MF,Midfielders
+Rodri,Spain,MF,724.0,0.0,MF,Midfielders
+Ibrahim Maza,Algeria,"MF,FW",351.0,0.77,MF,Midfielders
+Fares Chaïbi,Algeria,MF,360.0,0.75,MF,Midfielders
+Ousmane Dembélé,France,MF,592.0,1.52,MF,Midfielders
+Adrien Rabiot,France,MF,585.0,0.15,MF,Midfielders
+Rodrigo Bentancur,Uruguay,MF,270.0,0.0,MF,Midfielders
+Thomas Partey,Ghana,MF,270.0,0.0,MF,Midfielders
+Leandro Paredes,Argentina,MF,473.0,0.19,MF,Midfielders
+Hannibal Mejbri,Tunisia,MF,270.0,0.33,MF,Midfielders
+Ritsu Doan,Japan,MF,278.0,0.0,MF,Midfielders
+Jordy Bos,Australia,"MF,DF",308.0,0.58,MF,Midfielders
+Ismaila Sarr,Senegal,"MF,FW",364.0,1.48,MF,Midfielders
+Bradley Barcola,France,MF,384.0,1.17,MF,Midfielders
+Bruno Guimarães,Brazil,MF,416.0,0.43,MF,Midfielders
+Manu Koné,France,MF,385.0,0.47,MF,Midfielders
+Tajon Buchanan,Canada,MF,376.0,0.72,MF,Midfielders
+Désiré Doué,France,MF,400.0,1.8,MF,Midfielders
+Leroy Sané,Germany,MF,326.0,0.55,MF,Midfielders
+Declan Rice,England,MF,557.0,0.48,MF,Midfielders
+Frenkie de Jong,Netherlands,MF,328.0,0.0,MF,Midfielders
+Jude Bellingham,England,MF,614.0,1.91,MF,Midfielders
+Morgan Rogers,England,MF,339.0,0.27,MF,Midfielders
+Fabián Ruiz Peña,Spain,MF,321.0,0.56,MF,Midfielders
+Lamine Yamal,Spain,"MF,FW",614.0,1.76,MF,Midfielders
+Martin Baturina,Croatia,"MF,FW",321.0,0.28,MF,Midfielders
+Ayyoub Bouaddi,Morocco,MF,381.0,0.0,MF,Midfielders
+Florian Wirtz,Germany,MF,361.0,0.25,MF,Midfielders
